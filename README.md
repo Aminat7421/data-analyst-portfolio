@@ -18,7 +18,7 @@ I work with **Excel, Power BI, and SQL**, and I’m currently learning **Python*
 
 | Project | Tools | Description |
 |----------|--------|-------------|
-| [Customer Churn Analysis](./Customer-Churn-Analysis) | Excel, Power BI | Analyzed customer data to identify churn patterns and recommend retention strategies. |
+| [Customer-Churn-Analysis]([./Customer-Churn-Analysis]) | Excel, Power BI | Analyzed customer data to identify churn patterns and recommend retention strategies. |
 | [Sales Performance Dashboard](./Sales-Performance-Dashboard) | Power BI, SQL | Built an interactive dashboard visualizing sales performance and operational trends. |
 | [Energy Consumption Insights](./Energy-Consumption-Insights) | Excel | Explored renewable and fossil energy data to visualize sustainability progress and trends. |
 
