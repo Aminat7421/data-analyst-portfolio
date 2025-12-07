@@ -19,7 +19,7 @@ I work with **Excel, Power BI, and SQL**, and I’m currently learning **Python*
 | Project | Tools | Description |
 |----------|--------|-------------|
 | [([./Customer-Churn-Analysis])](https://github.com/Aminat7421/Customer-Churn-Analysis) | Excel | Analyzed customer data to identify churn patterns and recommend retention strategies. |
-|[Sales-performance-analysis](https://github.com/Aminat7421/Sales-performance-analysis) Excel | Built an interactive dashboard visualizing sales performance and operational trends. |
+|[Sales-performance-analysis](https://github.com/Aminat7421/Sales-performance-analysis) | Excel | Built an interactive dashboard visualizing sales performance and operational trends. |
 | [Energy Consumption Insights](./Energy-Consumption-Insights) | Excel | Explored renewable and fossil energy data to visualize sustainability progress and trends. |
 
 ---
