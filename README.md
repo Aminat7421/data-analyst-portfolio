@@ -33,7 +33,7 @@ I work with **Excel, Power BI, and SQL**, and I’m currently learning **Python*
 
 ---
 
-## 🚧 In Progress / Coming Soon
+## 🚧 In Progress 
 - Python EDA project using Pandas and Matplotlib  
 - Tableau dashboard on global CO₂ emissions  
 
